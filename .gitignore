@@ -1,0 +1,9 @@
+*.metadata
+*.nxj
+*.nxt
+*.class
+
+/RemoteSystemsTempFiles
+/.metadata
+/basicEclipse
+/basic.nxj
